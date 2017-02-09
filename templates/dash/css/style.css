@@ -1,0 +1,23 @@
+.left{
+    background-color: red;
+    display: inline-block;
+    height: 85vh;
+}
+
+.right{
+    background-color: orange;
+    display: inline-block;
+    height: 85vh;
+}
+.sub-left{
+    background-color: black;
+    height: 40vh;
+}
+.sub-right{
+    background-color: limegreen;
+    height: 40vh;
+}
+.sub-right-lower{
+    background-color: navajowhite;
+    height: 40vh;
+}
